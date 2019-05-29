@@ -1,0 +1,318 @@
+shotcut-dmo (1:19.04.30-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 01 May 2019 08:57:15 +0200
+
+shotcut-dmo (1:19.02.28-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 01 Mar 2019 07:54:49 +0100
+
+shotcut-dmo (1:19.01.27-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 28 Jan 2019 13:40:35 +0100
+
+shotcut-dmo (1:19.01.24-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 25 Jan 2019 00:07:21 +0100
+
+shotcut-dmo (1:19.01.19-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 20 Jan 2019 14:16:12 +0100
+
+shotcut-dmo (1:18.12.23-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 23 Dec 2018 23:24:06 +0100
+
+shotcut-dmo (1:18.12.15-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 16 Dec 2018 00:36:14 +0100
+
+shotcut-dmo (1:18.11.18-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 18 Nov 2018 19:03:18 +0100
+
+shotcut-dmo (1:18.11.13-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 14 Nov 2018 00:48:17 +0100
+
+shotcut-dmo (1:18.11.04-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 05 Nov 2018 08:08:34 +0100
+
+shotcut-dmo (1:18.10.08-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 09 Oct 2018 08:52:36 +0200
+
+shotcut-dmo (1:18.10.01-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 01 Oct 2018 19:08:12 +0200
+
+shotcut-dmo (1:18.09.16-dmo1) unstable; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 17 Sep 2018 23:07:28 +0200
+
+shotcut-dmo (1:18.09.15-dmo1) unstable; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 15 Sep 2018 17:51:56 +0200
+
+shotcut-dmo (1:18.09.13-dmo1) unstable; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 14 Sep 2018 00:46:06 +0200
+
+shotcut-dmo (1:18.08.14-dmo1) unstable; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 15 Aug 2018 08:37:30 +0200
+
+shotcut-dmo (1:18.08.11-dmo1) unstable; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 11 Aug 2018 17:24:32 +0200
+
+shotcut-dmo (1:18.08-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 01 Aug 2018 22:07:26 +0200
+
+shotcut-dmo (1:18.07-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 02 Jul 2018 20:05:35 +0200
+
+shotcut-dmo (1:18.06.02-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 03 Jun 2018 07:32:00 +0200
+
+shotcut-dmo (1:18.06-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 01 Jun 2018 21:28:28 +0200
+
+shotcut-dmo (1:18.05.08-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 11 May 2018 08:02:03 +0200
+
+shotcut-dmo (1:18.03.06-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+  * Add libsdl2-2.0-0 and libjack-jackd2-0 to Recommends
+  * Disable upstream version check at startup.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 24 Apr 2018 09:30:03 +0200
+
+shotcut-dmo (1:18.03-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 03 Mar 2018 13:07:40 +0100
+
+shotcut-dmo (1:18.01-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 03 Jan 2018 08:48:30 +0100
+
+shotcut-dmo (1:17.12-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 04 Dec 2017 09:02:30 +0100
+
+shotcut-dmo (1:17.11-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 03 Nov 2017 08:18:41 +0100
+
+shotcut-dmo (1:17.10-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 03 Oct 2017 09:00:03 +0200
+
+shotcut-dmo (17.09-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 05 Sep 2017 16:54:49 +0200
+
+shotcut-dmo (17.08-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 02 Aug 2017 09:10:24 +0200
+
+shotcut-dmo (17.06-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 02 Jun 2017 08:41:50 +0200
+
+shotcut-dmo (17.05-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 04 May 2017 08:03:18 +0200
+
+shotcut-dmo (17.04-dmo2) unstable; urgency=medium
+
+  * Remove qmelt patch, now we have a qmelt package and add qmelt in
+    Depends.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 08 Apr 2017 20:13:28 +0200
+
+shotcut-dmo (17.04-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 03 Apr 2017 08:04:08 +0200
+
+shotcut-dmo (17.03-dmo2) unstable; urgency=medium
+
+  * Should Depends on qml-module-qtquick-dialogs (Thanks to Спицын Андрей
+    for the bug report).
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 23 Mar 2017 18:24:44 +0100
+
+shotcut-dmo (17.03-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 03 Mar 2017 08:15:04 +0100
+
+shotcut-dmo (17.02-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 02 Feb 2017 08:42:44 +0100
+
+shotcut-dmo (17.01-dmo2) unstable; urgency=medium
+
+  * Under Linux the render tool is called melt not qmelt.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 06 Jan 2017 08:20:07 +0100
+
+shotcut-dmo (17.01-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 03 Jan 2017 08:34:59 +0100
+
+shotcut-dmo (16.12-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 04 Dec 2016 09:01:10 +0100
+
+shotcut-dmo (16.11-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 02 Nov 2016 15:36:14 +0100
+
+shotcut-dmo (16.10-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 01 Oct 2016 19:26:17 +0200
+
+shotcut-dmo (16.09-dmo2) unstable; urgency=medium
+
+  * Added missing Qml packages : qml-module-qtquick-extras,
+    qml-module-qtquick-controls and qml-module-qtqml-models2.  (Thanks to
+    jEsuSdA for the bug report).
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 20 Sep 2016 17:00:02 +0200
+
+shotcut-dmo (16.09-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 02 Sep 2016 08:42:25 +0200
+
+shotcut-dmo (16.08-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 08 Aug 2016 09:51:06 +0200
+
+shotcut-dmo (16.07-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 01 Jul 2016 15:34:30 +0200
+
+shotcut-dmo (16.06-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 02 Jun 2016 08:06:34 +0200
+
+shotcut-dmo (16.05-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 02 May 2016 07:20:40 +0200
+
+shotcut-dmo (16.04-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 02 Apr 2016 08:50:20 +0200
+
+shotcut-dmo (16.03-dmo3) unstable; urgency=medium
+
+  * Should also depends on shotcut-data.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 02 Mar 2016 12:06:33 +0100
+
+shotcut-dmo (16.03-dmo2) unstable; urgency=medium
+
+  * Should depends on melt
+  * Recommends frei0r-plugins and ladspa-plugin
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 02 Mar 2016 11:56:32 +0100
+
+shotcut-dmo (16.03-dmo1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 02 Mar 2016 08:51:12 +0100

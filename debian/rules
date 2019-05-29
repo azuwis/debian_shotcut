@@ -1,0 +1,22 @@
+#!/usr/bin/make -f
+
+export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
+
+%:
+	dh $@ -Sqmake --with quilt
+
+override_dh_auto_install:
+	dh_auto_install
+
+	chmod 644 debian/tmp/usr/share/shotcut/qml/filters/webvfx_ruttetraizer/ruttetraizer.html
+
+override_dh_clean:
+	dh_clean .qmake.cache
+
+#
+# To find QML package :
+# rgrep import *| cut -d' ' -f2| sort| uniq
+# Then search packages with apt-file
+#
+# qml-module-qtgraphicaleffects
+# qml-module-qtquick-dialogs

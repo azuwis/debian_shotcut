@@ -1,0 +1,11 @@
+--- a/src/settings.cpp
++++ b/src/settings.cpp
+@@ -572,7 +572,7 @@ void ShotcutSettings::setDrawMethod(int
+ 
+ bool ShotcutSettings::noUpgrade() const
+ {
+-    return settings.value("noupgrade", false).toBool();
++    return settings.value("noupgrade", true).toBool();
+ }
+ 
+ void ShotcutSettings::setNoUpgrade(bool value)

@@ -1,0 +1,38 @@
+Source: shotcut-dmo
+Section: video
+Priority: optional
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Bugs: mailto:marillat@deb-multimedia.org
+Homepage: https://www.shotcutapp.com/
+Standards-Version: 4.3.0
+Build-Depends: debhelper-compat (= 12), qt5-qmake, qt5-default, quilt,
+ libqt5x11extras5-dev, qtmultimedia5-dev, libqt5webkit5-dev, pkg-config,
+ libqt5opengl5-dev, libqt5websockets5-dev, qtdeclarative5-private-dev,
+ libmlt-dev (>= 1:6.16.0~), libmlt++-dev (>= 1:6.16.0~), qttools5-dev-tools
+
+Package: shotcut
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, melt, qmelt, shotcut-data (>= ${source:Version}), qml-module-qtquick-extras, qml-module-qtquick-controls, qml-module-qtqml-models2, qml-module-qtquick-dialogs
+Recommends: frei0r-plugins, ladspa-plugin, libsdl2-2.0-0, libjack-jackd2-0
+Description: Video editor
+ A free and open-source cross-platform video editing application.
+ .
+ Shotcut supports many video, audio, and image formats via FFmpeg and
+ screen, webcam, and audio capture. It uses a timeline for non-linear video
+ editing of multiple tracks that may be composed of various file formats.
+ Scrubbing and transport control are assisted by OpenGL GPU-based processing
+ and a number of video and audio filters are available.
+
+Package: shotcut-data
+Architecture: all
+Depends: ${misc:Depends}
+Description: Video editor
+ A free and open-source cross-platform video editing application.
+ .
+ Shotcut supports many video, audio, and image formats via FFmpeg and
+ screen, webcam, and audio capture. It uses a timeline for non-linear video
+ editing of multiple tracks that may be composed of various file formats.
+ Scrubbing and transport control are assisted by OpenGL GPU-based processing
+ and a number of video and audio filters are available.
+ .
+ This package contains QML files.
