@@ -1,3 +1,9 @@
+shotcut (19.04.30-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Wed, 29 May 2019 16:33:31 +0800
+
 shotcut-dmo (1:19.04.30-dmo1) unstable; urgency=medium
 
   * New upstream release.
